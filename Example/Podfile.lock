@@ -1,0 +1,16 @@
+PODS:
+  - EasyNavigationTitle (0.1.0)
+
+DEPENDENCIES:
+  - EasyNavigationTitle (from `../`)
+
+EXTERNAL SOURCES:
+  EasyNavigationTitle:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EasyNavigationTitle: 981da7fa187e5e459f236dc5004d387ef7f89ab6
+
+PODFILE CHECKSUM: a5975d1e2ac0650c251f5773d5e8dbdefc9385aa
+
+COCOAPODS: 1.4.0

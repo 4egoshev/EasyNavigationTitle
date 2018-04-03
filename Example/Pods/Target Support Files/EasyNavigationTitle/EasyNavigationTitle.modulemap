@@ -1,0 +1,6 @@
+framework module EasyNavigationTitle {
+  umbrella header "EasyNavigationTitle-umbrella.h"
+
+  export *
+  module * { export * }
+}

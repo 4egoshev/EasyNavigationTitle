@@ -1,0 +1,6 @@
+framework module Pods_EasyNavigationTitle_Tests {
+  umbrella header "Pods-EasyNavigationTitle_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
