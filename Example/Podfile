@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EasyNavigationTitle_Example' do
+  pod 'EasyNavigationTitle', :path => '../'
+
+  target 'EasyNavigationTitle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
